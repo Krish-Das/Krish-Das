@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Krish, I write Web Apps and smash keyboards.
 
 <!--
 **Krish-Das/Krish-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
