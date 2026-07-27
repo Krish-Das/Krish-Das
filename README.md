@@ -10,10 +10,10 @@
 
 </div>
 
-# Hey, I'm Krish 👋
+# Hi, I'm Krish 👋
 
 Building and maintaining [Extrack](https://extrackapp.com) since Jan 2024, a finance tracker people actually use.
 
-Ships as tagged releases with a [changelog](https://github.com/theKrishDas/extrack/releases); I don't let branches rot.
+Ships tagged [releases](https://github.com/theKrishDas/extrack/releases), keeping a changelog as it goes.
 
-Write about engineering at [upsher.dev](https://upsher.dev).
+I also write about engineering at [upsher.dev](https://upsher.dev).
