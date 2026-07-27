@@ -16,4 +16,4 @@ Building and maintaining [Extrack](https://extrackapp.com) since Jan 2024, a fin
 
 Ships tagged [releases](https://github.com/theKrishDas/extrack/releases), keeping a changelog as it goes.
 
-I also write about engineering at [upsher.dev](https://upsher.dev).
+I also write about engineering at [upsher.dev](https://upsher.dev?utm_source=github).
