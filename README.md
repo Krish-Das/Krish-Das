@@ -1,4 +1,4 @@
-[![Banner](./assets/banner.png)](https://upsher.dev)
+[![Banner](./assets/banner.png)](https://upsher.dev?utm_source=github)
 
 <div align="center">
 
