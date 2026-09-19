@@ -10,7 +10,7 @@
 
 </div>
 
-# Hi, I'm Krish 👋
+# Hey! 👋🏼 I'm Krish
 
 Building and maintaining [Extrack](https://extrackapp.com) since Jan 2024, a finance tracker people actually use.
 
